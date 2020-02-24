@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "periodico": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "periodico"
+    }
+  },
+  "defaultProject": "periodico",
+  "cli": {
+    "analytics": "488c3757-fff7-4d1d-8826-28f707bfef92"
+  }
 }
